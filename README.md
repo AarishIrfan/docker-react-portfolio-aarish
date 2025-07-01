@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website 
 
 
@@ -20,3 +21,7 @@ Feel free to fork this repository and customize the website to create your own p
 
 
 # Portfolio
+=======
+# docker-react-portfolio-aarish
+Docker‑containerized React portfolio website
+>>>>>>> d7f74e3de741c25216daa6f95c63d5fe7b995f4e

@@ -1,12 +1,3 @@
-Understood — here is your **clean, professional `README.md` file** with **no emojis, no shapes, no fluff**, just clear, formal, and technical documentation from start to finish:
-
----
-
-```markdown
-# Aarish Irfan – Dockerized React Portfolio
-
-This repository contains a personal portfolio website developed using ReactJS, containerized with Docker, and served using NGINX. It is intended to showcase skills, projects, certifications, and experience in a structured and responsive user interface.
-
 ## Project Objective
 
 To build and deploy a production-grade React portfolio application using Docker and NGINX, following modern software engineering and deployment practices.
@@ -106,18 +97,7 @@ git push -u origin main --force
 * Managing Git operations including conflict resolution, commits, force pushes, and rebases
 * Writing professional documentation for open-source repositories
 
-## License
 
-This repository is open source and available under the MIT License.
-
-## Author
-
-**Aarish Irfan**
-Email: [arishirfan98@gmail.com](mailto:arishirfan98@gmail.com)
-GitHub: [https://github.com/AarishIrfan](https://github.com/AarishIrfan)
-LinkedIn: [https://linkedin.com/in/aarishirfan](https://linkedin.com/in/aarishirfan)
-
-```
 
 ---
 

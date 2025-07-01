@@ -96,10 +96,3 @@ git push -u origin main --force
 * Creating and using `.dockerignore` effectively
 * Managing Git operations including conflict resolution, commits, force pushes, and rebases
 * Writing professional documentation for open-source repositories
-
-
-
----
-
-Let me know if you'd like a clean `README.md` file version uploaded for direct use. I can also help you write a professional LinkedIn post summarizing this achievement.
-```
